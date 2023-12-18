@@ -19,8 +19,7 @@ namespace NTP_2023
 
         private void button1_Click(object sender, EventArgs e)
         {
-           MessageBox.Show("Test");
-            MessageBox.Show("Test");
+           
         }
     }
 }
